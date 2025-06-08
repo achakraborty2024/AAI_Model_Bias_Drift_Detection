@@ -2,7 +2,7 @@
 
  **Automated Model Monitoring for XGBoost Churn Prediction Model**
  
- **Scheduled Model Quality Evaluation (hourly) using SageMaker Model Monitor**
+ **Scheduled Model Quality Evaluation (every 2 hour) using SageMaker Model Monitor**
  
  **Reports written to S3 → analyzed to detect model quality drift**
  
